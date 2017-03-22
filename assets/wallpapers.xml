@@ -16,7 +16,7 @@
  -->
 
 <wallpapers>
-    <wallpaper image="wall01" />
+    <wallpaper image="wall01" creator="Gelstatset" />
     <wallpaper image="wall02" />
     <wallpaper image="wall03" />
     <wallpaper image="wall04" />
@@ -62,12 +62,13 @@
     <wallpaper image="wall49" creator="Westcrip" />
     <wallpaper image="wall50" creator="Westcrip" />
     <wallpaper image="wall58" />
-    <wallpaper image="wall59" creator="Jason Townley" />
+    <wallpaper image="wall59" />
     <wallpaper image="wall60" creator="Jason Townley" />
-    <wallpaper image="wall61" creator="Afsha Norsham" />
+    <wallpaper image="wall61" creator="Jason Townley" />
     <wallpaper image="wall62" creator="Afsha Norsham" />
     <wallpaper image="wall63" creator="Afsha Norsham" />
     <wallpaper image="wall64" creator="Afsha Norsham" />
     <wallpaper image="wall65" creator="Afsha Norsham" />
     <wallpaper image="wall66" creator="Afsha Norsham" />
+    <wallpaper image="wall67" creator="Afsha Norsham" />
 </wallpapers>
