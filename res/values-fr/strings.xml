@@ -18,12 +18,26 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <resources>
     <string name="browse_header">En-têtes</string>
     <string name="custom_header_image_notice">Séléctionnez un style</string>
-
-    <string name="browse_walls">OMNI Wallpapers</string>
+    <string name="browse_walls">Fonds d\'écran</string>
+    <string name="omni_walls">Omni</string>
     <string name="wallpaper_type_dialog_title">Séléctionnez</string>
     <string name="wallpaper_type_both">Les deux</string>
     <string name="wallpaper_type_system">Ecran d\'accueil</string>
     <string name="wallpaper_type_lock">Ecran de vérrouillage</string>
-
     <string name="header_creator_label">Créateur\u003a </string>
+    <string name="browse_theme_header">Thème de l\'en-têtes</string>
+    <string name="pick_header">Sélectionner les en-têtes</string>
+    <string name="no_crop_activity_dialog_text">La galerie OMNI-Rom est requise pour définir le fond d\'écran</string>
+    <string name="no_crop_activity_dialog_title">Galerie manquante</string>
+    <string name="scrolling_wall_dialog_text">Voulez-vous rogner le fond d\'écran à la taille d\'affichage\u003f</string>
+    <string name="scrolling_wall_dialog_title">Rognage fond d\'écran</string>
+    <string name="scrolling_wall_yes">Non</string>
+    <string name="scrolling_wall_no">Oui</string>
+    <string name="wallpaper_location_local">Local</string>
+    <string name="wallpaper_location_remote">Online</string>
+    <string name="download_wallpaper_notice">Téléchargement</string>
+    <string name="download_wallpaper_failed_notice">Téléchargement échoué</string>
+    <string name="no_network_message">Aucune connectivité réseau</string>
+    <string name="download_wallpaper_list_failed_notice">Le chargement a échoué</string>
+    <string name="wallpaper_default_name">Fonds d\'écran</string>
 </resources>
