@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <application
         android:allowBackup="false"
         android:label="OmniStyle"
-        android:icon="@drawable/omnirom_logo" >
+        android:icon="@mipmap/ic_launcher" >
         <activity
             android:name=".BrowseHeaderActivity"
             android:label="@string/browse_header"
