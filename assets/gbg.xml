@@ -27,7 +27,7 @@ day_header entries have a higher priority then hour entries -->
     <hour_header hour="11" image="gbg" />
     <hour_header hour="13" image="gbg" />
     <hour_header hour="19" image="gbg" />
-    <hour_header hour="21" image="gbg" />
+    <hour_header hour="21" image="pbskullcl" />
     <day_header day="25" month="12" image="gbg" />
     <day_header day="31" month="12" image="gbg" />
 </daylight_headers>
