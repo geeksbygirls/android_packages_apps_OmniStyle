@@ -25,7 +25,7 @@ support_library_root_dir := prebuilts/sdk/current/support
 endif
 
 LOCAL_STATIC_JAVA_LIBRARIES += android-support-v4 \
-    android-support-v7-cardview
+    android-support-v7-cardview \
     lib-picasso
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
