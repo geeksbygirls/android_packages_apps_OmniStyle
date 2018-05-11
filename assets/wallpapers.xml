@@ -12,63 +12,110 @@
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  along with this program.  If not, see <http://www.gnu.org/licensesname="Wallpaper 0" />.
  -->
 
 <wallpapers>
-    <wallpaper image="wall01" creator="Gelstatset" />
-    <wallpaper image="wall02" />
-    <wallpaper image="wall03" />
-    <wallpaper image="wall04" />
-    <wallpaper image="wall05" />
-    <wallpaper image="wall06" />
-    <wallpaper image="wall07" />
-    <wallpaper image="wall08" />
-    <wallpaper image="wall09" />
-    <wallpaper image="wall10" />
-    <wallpaper image="wall11" />
-    <wallpaper image="wall12" />
-    <wallpaper image="wall13" />
-    <wallpaper image="wall14" />
-    <wallpaper image="wall15" />
-    <wallpaper image="wall16" />
-    <wallpaper image="wall17" />
-    <wallpaper image="wall18" />
-    <wallpaper image="wall19" />
-    <wallpaper image="wall20" />
-    <wallpaper image="wall21" />
-    <wallpaper image="wall22" />
-    <wallpaper image="wall23" />
-    <wallpaper image="wall24" />
-    <wallpaper image="wall25" />
-    <wallpaper image="wall26" />
-    <wallpaper image="wall27" />
-    <wallpaper image="wall28" />
-    <wallpaper image="wall29" />
-    <wallpaper image="wall30" />
-    <wallpaper image="wall31" />
-    <wallpaper image="wall32" />
-    <wallpaper image="wall33" />
-    <wallpaper image="wall34" />
-    <wallpaper image="wall35" />
-    <wallpaper image="wall36" />
-    <wallpaper image="wall37" />
-    <wallpaper image="wall38" />
-    <wallpaper image="wall39" />
-    <wallpaper image="wall40" />
-    <wallpaper image="wall46" creator="Westcrip" />
-    <wallpaper image="wall47" creator="Westcrip" />
-    <wallpaper image="wall48" creator="Westcrip" />
-    <wallpaper image="wall49" creator="Westcrip" />
-    <wallpaper image="wall50" creator="Westcrip" />
-    <wallpaper image="wall58" />
-    <wallpaper image="wall59" />
-    <wallpaper image="wall60" creator="Jason Townley" />
-    <wallpaper image="wall61" creator="Jason Townley" />
-    <wallpaper image="wall62" creator="Afsha Norsham" />
-    <wallpaper image="wall63" creator="Afsha Norsham" />
-    <wallpaper image="wall64" creator="Afsha Norsham" />
-    <wallpaper image="wall65" creator="Afsha Norsham" />
-    <wallpaper image="wall66" creator="Afsha Norsham" />
-    <wallpaper image="wall67" creator="Afsha Norsham" />
+    <wallpaper image="rrm1" creator="Roger Truttmann" name="RR 001"/>
+    <wallpaper image="rrm2" creator="Roger Truttmann" name="RR 002"/>
+    <wallpaper image="rrm3" creator="Roger Truttmann" name="RR 003"/>
+    <wallpaper image="rrm4" creator="Roger Truttmann" name="RR 004"/>
+    <wallpaper image="rrm5" creator="Roger Truttmann" name="RR 005"/>
+    <wallpaper image="rrm6" creator="Roger Truttmann" name="RR 006"/>
+    <wallpaper image="rrm7" creator="Roger Truttmann" name="RR 007"/>
+    <wallpaper image="rrm8" creator="Roger Truttmann" name="RR 008"/>
+    <wallpaper image="rrm9" creator="Roger Truttmann" name="RR 010"/>
+    <wallpaper image="rrm10" creator="Roger Truttmann" name="RR 011"/>
+    <wallpaper image="rrm11" creator="Roger Truttmann" name="RR 012"/>
+    <wallpaper image="rrm12" creator="Roger Truttmann" name="RR 013"/>
+    <wallpaper image="rrm13" creator="Roger Truttmann" name="RR 014"/>
+    <wallpaper image="rrm14" creator="Roger Truttmann" name="RR 015"/>
+    <wallpaper image="rrm15" creator="Roger Truttmann" name="RR 016"/>
+    <wallpaper image="rrm16" creator="Roger Truttmann" name="RR 017"/>
+    <wallpaper image="rrm18" creator="Roger Truttmann" name="RR 018"/>
+    <wallpaper image="rrm19" creator="Roger Truttmann" name="RR 019"/>
+    <wallpaper image="rrm20" creator="Roger Truttmann" name="RR 020"/>
+    <wallpaper image="rrm21" creator="Roger Truttmann" name="RR 021"/>
+    <wallpaper image="rrm22" creator="Roger Truttmann" name="RR 022"/>
+    <wallpaper image="rrm23" creator="Roger Truttmann" name="RR 023"/>
+    <wallpaper image="rrm24" creator="Roger Truttmann" name="RR 024"/>
+    <wallpaper image="rrm25" creator="Roger Truttmann" name="RR 025"/>
+    <wallpaper image="rrm26" creator="Roger Truttmann" name="RR 026"/>
+    <wallpaper image="rrm27" creator="Roger Truttmann" name="RR 027"/>
+    <wallpaper image="rrm28" creator="Roger Truttmann" name="RR 028"/>
+    <wallpaper image="rrm29" creator="Roger Truttmann" name="RR 029"/>
+    <wallpaper image="rrm30" creator="Roger Truttmann" name="RR 030"/>
+    <wallpaper image="rrm31" creator="Roger Truttmann" name="RR 031"/>
+    <wallpaper image="rrm32" creator="Roger Truttmann" name="RR 032"/>
+    <wallpaper image="rrm33" creator="Roger Truttmann" name="RR 033"/>
+    <wallpaper image="wall01" creator="Gelstatset" name="RR Remixed 001"/>
+    <wallpaper image="wall02" creator="Unknown" name="Wallpaper 001"/>
+    <wallpaper image="wall03" creator="Unknown" name="Wallpaper 002"/>
+    <wallpaper image="wall04" creator="Unknown" name="Wallpaper 003"/>
+    <wallpaper image="wall05" creator="Unknown" name="Wallpaper 004"/>
+    <wallpaper image="wall06" creator="Unknown" name="Wallpaper 005"/>
+    <wallpaper image="wall07" creator="Unknown" name="Wallpaper 006"/>
+    <wallpaper image="wall08" creator="Unknown" name="Wallpaper 007"/>
+    <wallpaper image="wall09" creator="Unknown" name="Wallpaper 008"/>
+    <wallpaper image="wall10" creator="Unknown" name="Wallpaper 009"/>
+    <wallpaper image="wall11" creator="Unknown" name="Wallpaper 010"/>
+    <wallpaper image="wall12" creator="Unknown" name="Wallpaper 011"/>
+    <wallpaper image="wall13" creator="Unknown" name="Wallpaper 012"/>
+    <wallpaper image="wall14" creator="Unknown" name="Wallpaper 013"/>
+    <wallpaper image="wall15" creator="Unknown" name="Wallpaper 014"/>
+    <wallpaper image="wall16" creator="Unknown" name="Wallpaper 015"/>
+    <wallpaper image="wall17" creator="Unknown" name="Wallpaper 016"/>
+    <wallpaper image="wall18" creator="Unknown" name="Wallpaper 017"/>
+    <wallpaper image="wall19" creator="Unknown" name="Wallpaper 018"/>
+    <wallpaper image="wall20" creator="Unknown" name="Wallpaper 019"/>
+    <wallpaper image="wall21" creator="Unknown" name="Wallpaper 020"/>
+    <wallpaper image="wall22" creator="Unknown" name="Wallpaper 021"/>
+    <wallpaper image="wall23" creator="Unknown" name="Wallpaper 022"/>
+    <wallpaper image="wall24" creator="Unknown" name="Wallpaper 023"/>
+    <wallpaper image="wall25" creator="Unknown" name="Wallpaper 024"/>
+    <wallpaper image="wall26" creator="Unknown" name="Wallpaper 025"/>
+    <wallpaper image="wall27" creator="Unknown" name="Wallpaper 026"/>
+    <wallpaper image="wall28" creator="Unknown" name="Wallpaper 027"/>
+    <wallpaper image="wall29" creator="Unknown" name="Wallpaper 028"/>
+    <wallpaper image="wall30" creator="Unknown" name="Wallpaper 029"/>
+    <wallpaper image="wall31" creator="Unknown" name="Wallpaper 030"/>
+    <wallpaper image="wall32" creator="Unknown" name="Wallpaper 031"/>
+    <wallpaper image="wall33" creator="Unknown" name="Wallpaper 032"/>
+    <wallpaper image="wall34" creator="Unknown" name="Wallpaper 033"/>
+    <wallpaper image="wall35" creator="Unknown" name="Wallpaper 034"/>
+    <wallpaper image="wall36" creator="Unknown" name="Wallpaper 035"/>
+    <wallpaper image="wall37" creator="Unknown" name="Wallpaper 036"/>
+    <wallpaper image="wall38" creator="Unknown" name="Wallpaper 037"/>
+    <wallpaper image="wall39" creator="Unknown" name="Wallpaper 038"/>
+    <wallpaper image="wall40" creator="Unknown" name="Wallpaper 039"/>
+    <wallpaper image="wall46" creator="Westcrip" name="RR 034"/>
+    <wallpaper image="wall47" creator="Westcrip" name="RR 035"/>
+    <wallpaper image="wall48" creator="Westcrip" name="RR 036"/>
+    <wallpaper image="wall49" creator="Westcrip" name="RR 037"/>
+    <wallpaper image="wall50" creator="Westcrip" name="RR 038"/>
+    <wallpaper image="wall58" creator="Unknown" name="Wallpaper 040"/>
+    <wallpaper image="wall59" creator="Unknown" name="Wallpaper 041"/>
+    <wallpaper image="wall60" creator="Jason Townley" name="RR 039"/>
+    <wallpaper image="wall61" creator="Jason Townley" name="RR 040"/>
+    <wallpaper image="wall62" creator="Afsha Norsham" name="RR 041"/>
+    <wallpaper image="wall63" creator="Afsha Norsham" name="RR 042"/>
+    <wallpaper image="wall64" creator="Afsha Norsham" name="RR 043"/>
+    <wallpaper image="wall65" creator="Afsha Norsham" name="RR 044"/>
+    <wallpaper image="wall66" creator="Afsha Norsham" name="RR 045"/>
+    <wallpaper image="wall67" creator="Afsha Norsham"name="RR 046"/>
+    <wallpaper image="wall68" creator="JP Kenji" name="Omni 001"/>
+    <wallpaper image="wall69" creator="JP Kenji" name="Omni 002"/>
+    <wallpaper image="omni_new1" creator="JayRod" name="Omni 003" />
+    <wallpaper image="omni_new3" creator="JayRod" name="Omni 004"/>
+    <wallpaper image="bliss22" creator="Roger Truttmann" name="Bliss 001"/>
+    <wallpaper image="bliss23" creator="Roger Truttmann" name="Bliss 002"/>
+    <wallpaper image="bliss24" creator="Roger Truttmann" name="Bliss 003"/>
+    <wallpaper image="bliss25" creator="Roger Truttmann" name="Bliss 004"/>
+    <wallpaper image="bliss26" creator="Roger Truttmann" name="Bliss 005"/>
+    <wallpaper image="bliss27" creator="Roger Truttmann" name="Bliss 006"/>
+    <wallpaper image="bliss28" creator="Roger Truttmann" name="Bliss 007"/>
+    <wallpaper image="bliss29" creator="Roger Truttmann" name="Bliss 008"/>
+    <wallpaper image="bliss30" creator="Roger Truttmann" name="Bliss 010"/>
+    <wallpaper image="dirty6" creator="Roger Truttmann" name="Dirty Unicorn 001"/>
+    <wallpaper image="dirty7" creator="Roger Truttmann" name="Dirty Unicorn 002"/>
 </wallpapers>

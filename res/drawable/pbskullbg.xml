@@ -3,4 +3,4 @@
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/pbskullcl"
     android:tint="@color/system_accent_color"
-android:alpha = "0.75"/>
+    android:alpha = "0.75"/>
